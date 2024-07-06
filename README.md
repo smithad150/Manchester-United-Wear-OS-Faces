@@ -3,6 +3,9 @@ A couple of watch faces I developed for Wear OS devices for the Manchester Unite
 developer so there may be bugs and issues to fix! These were designed for circular faced watches - not sure how they 
 look on square faced devices.
 
+There are 3 faces: A Newton Heath themed Red Devil face, a current colour themed Red Devil Face, and a full logo themed face. 
+I have added them to separate branches for ease of use
+
 These need to be sideloaded via ADB as I do not have a Google Developer account since its costly for a fun hobby
 If you do not know how to do this, there are a few key steps. 
 I am not responsible for your device so please research your device thoroughly for this process
